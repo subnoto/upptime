@@ -10,7 +10,7 @@ status-website:
     # baseUrl: /your-repo-name
     logoUrl: https://raw.githubusercontent.com/subnoto/upptime/master/assets/subnoto-logo.png
     favicon: https://subnoto.com/favicon.ico
-    themeUrl: https://raw.githubusercontent.com/subnoto/upptime/master/assets/custom-theme.css
+    themeUrl: https://status.subnoto.com/custom-theme.css
     name: Status
     introTitle: "Subnoto Status Page"
     introMessage: "Follow our status updates on this page."
