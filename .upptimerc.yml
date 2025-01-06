@@ -9,7 +9,9 @@ status-website:
     cname: status.subnoto.com
     # baseUrl: /your-repo-name
     logoUrl: https://raw.githubusercontent.com/subnoto/upptime/master/assets/subnoto-logo.png
-    name: Upptime
+    favicon: https://subnoto.com/favicon.ico
+    themeUrl: https://raw.githubusercontent.com/subnoto/upptime/master/assets/custom-theme.css
+    name: Status
     introTitle: "Subnoto Status Page"
     introMessage: "Follow our status updates on this page."
     navbar:
@@ -17,5 +19,9 @@ status-website:
           href: /
         - title: GitHub
           href: https://github.com/$OWNER/$REPO
+
+assignees:
+    - Mikescops
+    - tidalf
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
