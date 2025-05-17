@@ -4,18 +4,19 @@
     "url": "https://subnoto.com",
     "icon": "https://icons.duckduckgo.com/ip3/subnoto.com.ico",
     "slug": "subnoto",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 505,
-    "timeDay": 476,
-    "timeWeek": 514,
+    "time": 506,
+    "timeDay": 515,
+    "timeWeek": 519,
     "timeMonth": 571,
-    "timeYear": 505,
+    "timeYear": 506,
     "dailyMinutesDown": {
+      "2025-05-17": 0,
       "2025-05-03": 20
     }
   }
